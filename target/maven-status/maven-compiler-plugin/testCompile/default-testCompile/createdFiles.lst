@@ -1,0 +1,10 @@
+com\workoutportal\WorkoutPortalApplicationTests.class
+com\workoutportal\UserTest\UserServiceTest.class
+com\workoutportal\UserTest\UserRepositoryTest.class
+com\workoutportal\WorkOutTransactionTest\WorkoutTransactionsRepoTest.class
+com\workoutportal\UserTest\UserControllerTest.class
+com\workoutportal\WorkOutTransactionTest\WorkOutTransactionControllerTest.class
+com\workoutportal\WorkOutTest\WorkoutRepositoryTest.class
+com\workoutportal\WorkOutTest\WorkoutControllerTest.class
+com\workoutportal\WorkOutTest\WorkoutServiceTest.class
+com\workoutportal\WorkOutTransactionTest\WorkoutTransactionServiceTest.class
